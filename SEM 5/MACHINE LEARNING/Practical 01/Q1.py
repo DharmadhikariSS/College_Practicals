@@ -2,5 +2,7 @@
 #      TY CSE R. no 30
 
 
-for i in range(1, 101):
-    print (i)
+name = input("Enter name : ")
+print(name)
+age=int(input("Enter age: "))
+print(age)
