@@ -1,3 +1,4 @@
-for(i in seq(from = 1, to = 100)){
-	print(paste(i))
-}
+name = input("Enter name : ")
+print(name)
+age=int(input("Enter age: "))
+print(age)
