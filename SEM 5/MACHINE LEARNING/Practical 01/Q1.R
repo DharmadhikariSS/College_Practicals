@@ -1,4 +1,4 @@
-name = input("Enter name : ")
+name=readline(prompt = "Enter name:")
 print(name)
-age=int(input("Enter age: "))
+age=as.integer(readline(prompt = "Enter age:"))
 print(age)
