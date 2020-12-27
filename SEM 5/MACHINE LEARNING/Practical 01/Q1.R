@@ -1,3 +1,4 @@
-for(i in seq(from = 1, to = 100)){
-	print(paste(i))
-}
+name=readline(prompt = "Enter name:")
+print(name)
+age=as.integer(readline(prompt = "Enter age:"))
+print(age)
